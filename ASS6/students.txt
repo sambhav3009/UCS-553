@@ -1,0 +1,5 @@
+RollNo,Name,Branch,CGPA
+101,Aman Sharma,CSE,8.7
+102,Priya Verma,ECE,9.1
+103,Rahul Singh,ME,7.8
+104,Sneha Gupta,CSE,8.9

@@ -1,0 +1,10 @@
+2026-11-07 10:00:01 INFO Application started
+2026-11-07 10:00:05 INFO User admin logged in
+2026-11-07 10:01:12 WARNING Disk usage above 80%
+2026-11-07 10:02:30 INFO Fetching records from database
+2026-11-07 10:03:45 ERROR Database connection timeout
+2026-11-07 10:04:10 INFO Retrying connection
+2026-11-07 10:04:15 INFO Connection re-established
+2026-11-07 10:05:50 WARNING Response time exceeded 2s
+2026-11-07 10:06:20 ERROR NullPointerException in ReportService
+2026-11-07 10:07:00 INFO User admin logged out
